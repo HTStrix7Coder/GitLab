@@ -3,3 +3,4 @@
 3. Study books.
 4. Attend classes on time.
 5. Visit aunt.
+6. Practice code
